@@ -1,4 +1,30 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Pratyaksh Mehrotra'
 theme = 'hello-friend'
+paginate = 5
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[params]
+  showMenuItems = 2
+  showReadingTime = true
+  rssFullText = true
+
+[languages]
+  [languages.en]
+    [languages.en.params.logo]
+      logoText = "pratyakshm"
+      logoHomeLink = "/"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "rss"
+        name = "RSS"
+        url = "/posts/index.xml"
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"

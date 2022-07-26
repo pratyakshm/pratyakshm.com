@@ -1,12 +1,13 @@
 +++
 framed = true
 +++
+<div style="text-align: left">
 
 # Pratyaksh Mehrotra
 
-Hello there! I am Pratyaksh Mehrotra. I like to tinker around with Windows in my free time.
+Hello there! I am Pratyaksh Mehrotra a.k.a. Clippy and I like to tinker around with Windows in my free time.
 
-I code... sometimes. Othertimes, you can find me listening to music, in the library or watching a movie.
+I code... sometimes. Othertimes, you can find me listening to music, reading a book or watching a movie.
 
 ... And I'm pursuing my Bachelors of Computer Science from the University of Engineering and Management, Kolkata.
 
@@ -18,7 +19,8 @@ I code... sometimes. Othertimes, you can find me listening to music, in the libr
 
 [Twitter](https://twitter.com/yopratyaksh)
 
-[Mail](mailto:pratyakshm@proton.me)
+[Mail](mailto:contact@pratyakshm.com)
 
 If you like what I do, you may donate to me via UPI: ``pratyakshm.p@oksbi``.
-Alternatively, you can also donate using PayPal: paypal.me/pratyakshm.
+Alternatively, you can also donate using PayPal: [paypal.me/pratyakshm](https://paypal.me/pratyakshm).
+</div>
