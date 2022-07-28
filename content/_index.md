@@ -5,7 +5,7 @@ framed = true
 
 # Pratyaksh Mehrotra
 
-Hello there! I am Pratyaksh Mehrotra a.k.a. Clippy and I like to tinker around with Windows in my free time.
+Hello there! I'm Pratyaksh (a.k.a. Clippy) and I like to tinker around with Windows in my free time.
 
 I code... sometimes. Othertimes, you can find me listening to music, reading a book or watching a movie.
 
@@ -13,13 +13,11 @@ I code... sometimes. Othertimes, you can find me listening to music, reading a b
 
 ### Here are places where I can be found:
 
-[Telegram](https://t.me/pratyakshm)
-
-[Github](https://github.com/pratyakshm)
-
-[Twitter](https://twitter.com/yopratyaksh)
-
-[Mail](mailto:contact@pratyakshm.com)
+- [LinkedIn](https://www.linkedin.com/in/pratyakshm/)
+- [GitHub](https://github.com/pratyakshm)
+- [Mail](mailto:contact@pratyakshm.com)
+- [Twitter](https://twitter.com/yopratyaksh)
+- [Telegram](https://t.me/pratyakshm)
 
 If you like what I do, you may donate to me via UPI: ``pratyakshm.p@oksbi``.
 Alternatively, you can also donate using PayPal: [paypal.me/pratyakshm](https://paypal.me/pratyakshm).
