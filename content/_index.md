@@ -16,8 +16,10 @@ I code... sometimes. Othertimes, you can find me listening to music, reading a b
 - [LinkedIn](https://www.linkedin.com/in/pratyakshm/)
 - [GitHub](https://github.com/pratyakshm)
 - [Mail](mailto:contact@pratyakshm.com)
-- [Twitter](https://twitter.com/yopratyaksh)
 - [Telegram](https://t.me/pratyakshm)
+- [Twitter](https://twitter.com/yopratyaksh)
+- [Instagram](https://instagram.com/reallypratyaksh)
+
 
 If you like what I do, you may donate to me via UPI: ``pratyakshm.p@oksbi``.
 Alternatively, you can also donate using PayPal: [paypal.me/pratyakshm](https://paypal.me/pratyakshm).
