@@ -17,7 +17,7 @@ I code... sometimes. Othertimes, you can find me listening to music, reading a b
 - [GitHub](https://github.com/pratyakshm)
 - [Mail](mailto:contact@pratyakshm.com)
 - [Telegram](https://t.me/pratyakshm)
-- [Twitter](https://twitter.com/yopratyaksh)
+- [Twitter](https://twitter.com/pratyakshstwt)
 - [Instagram](https://instagram.com/reallypratyaksh)
 
 

@@ -16,7 +16,7 @@ I code... sometimes. Othertimes, you can find me listening to music, in the libr
 
 [Github](https://github.com/pratyakshm)
 
-[Twitter](https://twitter.com/yopratyaksh)
+[Twitter](https://twitter.com/pratyakshstwt)
 
 [Mail](mailto:pratyakshm@proton.me)
 
