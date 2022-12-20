@@ -1,6 +1,7 @@
 +++
 framed = true
 +++
+
 <div style="text-align: left">
 
 # Pratyaksh Mehrotra
@@ -9,18 +10,16 @@ Hello there! I'm Pratyaksh (a.k.a. Clippy) and I like to tinker around with Wind
 
 I code... sometimes. Othertimes, you can find me listening to music, reading a book or watching a movie.
 
-... And I'm pursuing my Bachelors of Computer Science from the University of Engineering and Management, Kolkata.
+I'm a sophomore currently pursuing Computer Science.
 
-### Here are places where I can be found:
+Find me on [LinkedIn](https://www.linkedin.com/in/pratyakshm), [GitHub](https://github.com/pratyakshm), [Twitter](https://twitter.com/reallypratyaksh), [Instagram](https://instagram.com/reallypratyaksh), [Telegram](https://t.me/pratyakshm), and [Mastodon](https://infosec.exchange/@pratyakshm)!
 
-- [LinkedIn](https://www.linkedin.com/in/pratyakshm/)
-- [GitHub](https://github.com/pratyakshm)
-- [Mail](mailto:contact@pratyakshm.com)
-- [Telegram](https://t.me/pratyakshm)
-- [Twitter](https://twitter.com/pratyakshstwt)
-- [Instagram](https://instagram.com/reallypratyaksh)
+Business email: [contact@pratyakshm.com](mailto:contact@pratyakshm.com); Secure email: [pratyakshm@pm.me](mailto:pratyakshm@proton.me); For everything else: Mastodon DMs.
 
+### Donations
 
-If you like what I do, you may donate to me via UPI: ``pratyakshm.p@oksbi``.
-Alternatively, you can also donate using PayPal: [paypal.me/pratyakshm](https://paypal.me/pratyakshm).
+You may donate using [paypal.me/pratyakshm](https://paypal.me/pratyakshm).
+
+Alternatively, if you're from India, you may donate via UPI: `reallypratyaksh@ybl`.
+
 </div>

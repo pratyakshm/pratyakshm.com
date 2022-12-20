@@ -16,9 +16,11 @@ I code... sometimes. Othertimes, you can find me listening to music, in the libr
 
 [Github](https://github.com/pratyakshm)
 
-[Twitter](https://twitter.com/pratyakshstwt)
+[Twitter](https://twitter.com/realypratyaksh)
 
-[Mail](mailto:pratyakshm@proton.me)
+[Mail](mailto:contact@pratyakshm.com)
 
-If you like what I do, you may donate to me via UPI: ``pratyakshm.p@oksbi``.
+<a rel="me" href="https://infosec.exchange/@pratyakshm">Mastodon</a>
+
+If you like what I do, you may donate to me via UPI: `pratyakshm.p@oksbi`.
 Alternatively, you can also donate using PayPal: paypal.me/pratyakshm.
