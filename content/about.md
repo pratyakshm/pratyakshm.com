@@ -4,23 +4,13 @@ framed = true
 
 # Pratyaksh Mehrotra
 
-Hello there! I am Pratyaksh Mehrotra. I like to tinker around with Windows in my free time.
+Pratyaksh is a computer science student with experience in Android development and cybersecurity. He has served as Product Manager for the RevengeOS Android operating system and maintained the WinRice project. In addition to technology, Pratyaksh is also interested in film and music. He is currently learning C++ and plans to learn Rust in the future. Pratyaksh has recently started blogging about technology.
 
-I code... sometimes. Othertimes, you can find me listening to music, in the library or watching a movie.
-
-... And I'm pursuing my Bachelors of Computer Science from the University of Engineering and Management, Kolkata.
-
-### Here are places where I can be found:
-
-[Telegram](https://t.me/pratyakshm)
-
-[Github](https://github.com/pratyakshm)
-
-[Twitter](https://twitter.com/realypratyaksh)
-
-[Mail](mailto:contact@pratyakshm.com)
+### Links:
 
 <a rel="me" href="https://infosec.exchange/@pratyakshm">Mastodon</a>
+
+Find me on [LinkedIn](https://www.linkedin.com/in/pratyakshm), [GitHub](https://github.com/pratyakshm), [Twitter](https://twitter.com/reallypratyaksh), [Instagram](https://instagram.com/reallypratyaksh), and [Telegram](https://t.me/pratyakshm).
 
 If you like what I do, you may donate to me via UPI: `pratyakshm.p@oksbi`.
 Alternatively, you can also donate using PayPal: paypal.me/pratyakshm.
