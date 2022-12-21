@@ -14,7 +14,7 @@ I've also maintained a project called [WinRice](https://github.com/pratyakshm/Wi
 
 ### SOCIAL
 
-Find me on [LinkedIn](https://www.linkedin.com/in/pratyakshm), [GitHub](https://github.com/pratyakshm), [Twitter](https://twitter.com/reallypratyaksh), [Instagram](https://instagram.com/reallypratyaksh), [Telegram](https://t.me/pratyakshm), and [Mastodon](https://infosec.exchange/@pratyakshm)!
+Find me on [LinkedIn](https://www.linkedin.com/in/pratyakshm), [GitHub](https://github.com/pratyakshm), [Twitter](https://twitter.com/pratyakshm_), [Instagram](https://instagram.com/_pratyakshm), [Telegram](https://t.me/pratyakshm), and [Mastodon](https://infosec.exchange/@pratyakshm)!
 
 I would love it if you come and hang around on my [Twitch](https://twitch.tv/pratyakshm) channel, where I occasionally stream VALORANT and Euro Truck Simulator. That also gives away the fact that I'm into simulation and FPS gaming, though I don't like to call myself a gamer.
 

@@ -10,7 +10,7 @@ Pratyaksh is a computer science student with experience in Android development a
 
 <a rel="me" href="https://infosec.exchange/@pratyakshm">Mastodon</a>
 
-Find me on [LinkedIn](https://www.linkedin.com/in/pratyakshm), [GitHub](https://github.com/pratyakshm), [Twitter](https://twitter.com/reallypratyaksh), [Instagram](https://instagram.com/reallypratyaksh), and [Telegram](https://t.me/pratyakshm).
+Find me on [LinkedIn](https://www.linkedin.com/in/pratyakshm), [GitHub](https://github.com/pratyakshm), [Twitter](https://twitter.com/pratyakshm_), [Instagram](https://instagram.com/_pratyakshm), and [Telegram](https://t.me/pratyakshm).
 
 If you like what I do, you may donate to me via UPI: `pratyakshm.p@oksbi`.
 Alternatively, you can also donate using PayPal: paypal.me/pratyakshm.
